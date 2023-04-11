@@ -1,5 +1,5 @@
 
-# Your name:
+# Your name: Kurt Holland
 # Your student id:
 # Your email:
 # List who you have worked with on this project:
