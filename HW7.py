@@ -2,7 +2,7 @@
 # Your name: Kurt Holland
 # Your student id:
 # Your email: kholl@umich.edu
-# List who you have worked with on this project:
+# List who you have worked with on this project: Emily Libman
 
 import unittest
 import sqlite3
