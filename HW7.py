@@ -1,7 +1,7 @@
 
 # Your name: Kurt Holland
 # Your student id:
-# Your email:
+# Your email: kholl@umich.edu
 # List who you have worked with on this project:
 
 import unittest
